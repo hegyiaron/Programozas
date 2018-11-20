@@ -1,0 +1,40 @@
+-----------------Parancssor---------------
+#Fõkönyvtár
+cd \
+
+#Meghajtóváltás
+c:
+
+#Mappaváltás
+cd "könyvtár neve"
+
+#Egy mappát vissza
+cd..
+
+#Új mappa
+md "név"
+
+#prompt - készen áll a parancsok fogadásásra - elérési útvonal
+C:\Users\hegyi.aron.ferenc\Documents\HTML09A>
+
+#PATH - keresési útvonal
+
+#Mappa átnevezése
+ren "régi név" "új név"
+
+#Code indítása
+code .
+
+
+-----------Hexadecimális színek-------------
+
+
+Legnagyobb kétjegyû, 255:
+#FF
+
+Legkisebb kétjegyû, 0:
+#00
+
+Hat jegy:
+#FF-FF-FF
+#Red:Red-Green:Green-Blue:Blue
