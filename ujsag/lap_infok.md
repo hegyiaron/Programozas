@@ -1,4 +1,4 @@
-*__Színek__
+*__Színek__*
 
 #E6F1BC
  
